@@ -35,9 +35,9 @@
 
 ###
 
-<p align="center">
- <img width="600" src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/output/github-contribution-grid-snake.svg" alt="snake"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/github-snake.svg" width="600" alt="contribution snake"/>
+</div>
 
 ###
 

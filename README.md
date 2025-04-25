@@ -36,7 +36,7 @@
 ###
 
 <p align="center">
- <img width="600" src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/github-snake.svg" alt="snake"/>
+ <img width="600" src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/output/github-contribution-grid-snake.svg" alt="snake"/>
 </p>
 
 ###

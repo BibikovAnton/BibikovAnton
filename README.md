@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://t.me/AntonBib" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=Написать%20в%20Telegram&color=2CA5E0&logoColor=white&style=for-the-badge" height="30" alt="telegram logo" />
+    <img src="https://img.shields.io/badge/Telegram-%40AntonBib-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="30" alt="Telegram"/>
   </a>
 </div>
 

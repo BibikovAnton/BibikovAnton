@@ -44,13 +44,8 @@
 Оптимизация: Интересуюсь вопросами производительности и эффективности алгоритмов.
 Постоянное обучение: Регулярно решаю задачи на LeetCode, читаю технические блоги и смотрю доклады (GopherCon).
 📫 Как со мной связаться
-
-Telegram: @Anton_Bibikov
 Email: bibikovanton.m@gmail.com
 
-📊 Статистика
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" /> <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" /> </p>
 Цель: Стремлюсь к профессиональному росту в IT, хочу работать над сложными высоконагруженными проектами и развиваться как востребованный Go-разработчик.
 
 
@@ -60,13 +55,3 @@ Email: bibikovanton.m@gmail.com
 </div>
 
 ###
-
-
-<h3 align="left">📊 Статистика за все время</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BibikovAnton&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="stats" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BibikovAnton&theme=dark&hide_border=true" alt="streak" width="400"/>
-</div>

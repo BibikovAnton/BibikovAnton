@@ -6,7 +6,7 @@
 
 <br>
 
-<div align="center" style="background: rgba(15, 12, 41, 0.7); padding: 25px; border-radius: 15px; backdrop-filter: blur(8px); border: 1px solid rgba(32, 194, 14, 0.3); box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
+<div align="center" style="background: rgba(15, 12, 41, 0.8); padding: 25px; border-radius: 15px; backdrop-filter: blur(6px); border: 1px solid rgba(32, 194, 14, 0.3); margin: 20px 0;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </div>
 

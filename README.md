@@ -6,9 +6,8 @@
 
 <br>
 
-
-<h1 align="center" style="height: 150px; display: flex; align-items: center; justify-content: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.vercel.app/api?font=Fira+Code&weight=600&size=36&duration=2500&pause=700&color=20C20E&center=true&vCenter=true&width=480&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </h1>
 
 <br>

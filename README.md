@@ -5,11 +5,10 @@
 </div>
 
 <br>
+<br>
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=👋+Hello!;I'm+Bibikov+Anton;Go+Backend+Engineer;Open+for+Collaboration" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </h1>
 
 <br>

@@ -6,9 +6,45 @@
 
 <br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&background=FFFFFF10&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
-</h1>
+<div align="center" style="position: relative; padding: 40px; background: rgba(15, 12, 41, 0.8); border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); overflow: hidden; margin: 20px 0; min-height: 150px; display: flex; align-items: center; justify-content: center;">
+
+  <!-- Анимированные звездочки на фоне -->
+  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none;">
+    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
+      <!-- Анимированные звездочки -->
+      <circle cx="10%" cy="20%" r="1" fill="white" opacity="0.7">
+        <animate attributeName="cy" from="100%" to="-10%" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="25%" cy="40%" r="1.5" fill="#20C20E" opacity="0.6">
+        <animate attributeName="cy" from="100%" to="-10%" dur="5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="40%" cy="60%" r="1" fill="white" opacity="0.8">
+        <animate attributeName="cy" from="100%" to="-10%" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="60%" cy="30%" r="2" fill="#20C20E" opacity="0.5">
+        <animate attributeName="cy" from="100%" to="-10%" dur="8s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="75%" cy="50%" r="1" fill="white" opacity="0.7">
+        <animate attributeName="cy" from="100%" to="-10%" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="90%" cy="70%" r="1.5" fill="#20C20E" opacity="0.6">
+        <animate attributeName="cy" from="100%" to="-10%" dur="7s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="15%" cy="80%" r="1" fill="white" opacity="0.8">
+        <animate attributeName="cy" from="100%" to="-10%" dur="6s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="85%" cy="10%" r="2" fill="#20C20E" opacity="0.5">
+        <animate attributeName="cy" from="100%" to="-10%" dur="10s" repeatCount="indefinite"/>
+      </circle>
+    </svg>
+  </div>
+
+  <!-- Текст по центру -->
+  <div style="position: relative; z-index: 1;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
+  </div>
+
+</div>
 
 <br>
 

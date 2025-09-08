@@ -6,27 +6,8 @@
 
 <br>
 
-<div align="center" style="position: relative; padding: 40px; background: rgba(15, 12, 41, 0.9); border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); margin: 20px 0; min-height: 150px; display: flex; align-items: center; justify-content: center;">
-
-  <!-- Простые статичные звездочки -->
-  <div style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; pointer-events: none; opacity: 0.3;">
-    <svg width="100%" height="100%" xmlns="http://www.w3.org/2000/svg">
-      <circle cx="10%" cy="20%" r="1" fill="white"/>
-      <circle cx="25%" cy="40%" r="1.5" fill="#20C20E"/>
-      <circle cx="40%" cy="60%" r="1" fill="white"/>
-      <circle cx="60%" cy="30%" r="2" fill="#20C20E"/>
-      <circle cx="75%" cy="50%" r="1" fill="white"/>
-      <circle cx="90%" cy="70%" r="1.5" fill="#20C20E"/>
-      <circle cx="15%" cy="80%" r="1" fill="white"/>
-      <circle cx="85%" cy="10%" r="2" fill="#20C20E"/>
-    </svg>
-  </div>
-
-  <!-- Текст по центру -->
-  <div style="position: relative; z-index: 1;">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
-  </div>
-
+<div align="center" style="display: flex; align-items: center; justify-content: center; min-height: 150px; padding: 40px; background: rgba(15, 12, 41, 0.8); border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </div>
 
 </div>

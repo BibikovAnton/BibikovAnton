@@ -7,7 +7,9 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=👋+Hello!;I'm+Bibikov+Anton;Go+Backend+Engineer;Open+for+Collaboration" alt="Typing SVG" />
+  </a>
 </h1>
 
 <br>
@@ -32,7 +34,7 @@
 
 <br>
 <br>
-<br>
+
 
 ## <strong>🛠️ Технологический Стек</strong>
 
@@ -65,7 +67,7 @@
 
 <br>
 <br>
-<br>
+
 
 ## <strong>📈 Принципы Разработки</strong>
 
@@ -81,7 +83,7 @@
 
 <br>
 <br>
-<br>
+
 
 ## <strong>📫 Как со мной связаться</strong>
 
@@ -96,7 +98,7 @@
 
 <br>
 <br>
-<br>
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/github-snake.svg" width="600" alt="contribution snake"/>

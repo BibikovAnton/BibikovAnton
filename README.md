@@ -18,7 +18,21 @@
   </a>
 </div>
 
-## 🚀 Software Engineer
+<br>
+
+<div align="center">
+  
+  <!-- Анимированные иконки навыков -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" width="40" alt="Go" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" height="40" width="40" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" height="40" width="40" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" height="40" width="40" alt="Redis" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg" height="40" width="40" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height="40" width="40" alt="Git" />
+  
+</div>
+
+## 🚀 Обо мне
 
 Backend разработчик с фокусом на Go (Golang) и создании масштабируемых, высокопроизводительных систем. Имею опыт разработки распределенных систем, работы с базами данных и контейнеризацией приложений.
 
@@ -62,9 +76,22 @@ Backend разработчик с фокусом на Go (Golang) и созда�
 
 ## 📫 Контакты
 
-- **Email**: [bibikovanton.m@gmail.com](mailto:bibikovanton.m@gmail.com)
-- **Telegram**: [@AntonBib](https://t.me/AntonBib)
-- **GitHub**: [BibikovAnton](https://github.com/BibikovAnton)
+<div align="center">
+  <a href="https://t.me/AntonBib" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-%40AntonBib-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="40" alt="Telegram"/>
+  </a>
+  <a href="mailto:bibikovanton.m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-bibikovanton.m@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40" alt="Email">
+  </a>
+  <a href="https://www.linkedin.com/in/anton-bibikov-software-engineer" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Anton_Bibikov-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/BibikovAnton" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-BibikovAnton-181717?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub">
+  </a>
+</div>
+
+<br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/github-snake.svg" width="600" alt="contribution snake"/>

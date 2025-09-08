@@ -5,9 +5,9 @@
 </div>
 
 <br>
-<br>
 
-<h1 align="center">
+
+<h1 align="center" style="height: 120px; display: flex; align-items: center; justify-content: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </h1>
 

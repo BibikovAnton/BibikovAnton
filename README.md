@@ -6,8 +6,8 @@
 
 <br>
 
-<div align="center" style="display: flex; align-items: center; justify-content: center; min-height: 150px; padding: 40px; background: rgba(15, 12, 41, 0.8); border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
+<div align="center" style="display: flex; align-items: center; justify-content: center; min-height: 120px; padding: 30px; background: rgba(15, 12, 41, 0.8); border-radius: 15px; border: 1px solid rgba(32, 194, 14, 0.3); margin: 20px 0;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=800&color=20C20E&center=true&vCenter=true&width=500&lines=Bibikov+Anton;Go+Backend+Engineer" alt="Typing SVG" />
 </div>
 
 </div>

@@ -114,6 +114,5 @@
   <img src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/github-snake.svg" width="600" alt="contribution snake"/>
 </div>
 
-[Диплом о прохождении_Бибиков Ан.pdf](https://github.com/user-attachments/files/27570959/_.pdf)
 
 

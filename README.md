@@ -83,7 +83,12 @@
 
 <br>
 
-## <strong>📈 Что я умею</strong>
+<table style="width: 100%;">
+  <tr>
+    <td align="left"><h3><strong>📈 Что я умею</strong></h3></td>
+    <td align="right"><img src="https://raw.githubusercontent.com/BibikovAnton/BibikovAnton/main/assets/Developer.gif" width="50" alt="developer gif"/></td>
+  </tr>
+</table>
 
 <br>
 

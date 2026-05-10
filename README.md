@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif" />
+  <img height="300" width="350" src="https://www.datocms-assets.com/93363/1678795270-renuo-blog-go.gif" />
 </div>
 
 <br>
